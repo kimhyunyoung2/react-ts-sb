@@ -1,10 +1,13 @@
 .big {
           width : 200px;
 }
+.medium {
+          width: 150px;
+}   
 .small {
           width : 100px;
 }
-.button {
+.box {
           height : 50px;
           background-color: #aaa;
 }

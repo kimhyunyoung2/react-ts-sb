@@ -1,6 +1,9 @@
 .big {
           width : 200px;
 }
+.medium {
+        width: 150px;
+}  
 .small {
           width : 100px;
 }
