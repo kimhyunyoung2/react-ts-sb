@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","sources":["webpack:///Button.css"],"sourcesContent":[".big {\n          width : 200px;\n}\n.small {\n          width : 100px;\n}\n.button {\n          height : 39px;\n          background-color: #aaa;\n}\n"],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;;","sourceRoot":""}
